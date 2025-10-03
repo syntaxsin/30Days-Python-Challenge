@@ -1,3 +1,5 @@
+#Day 2: 30 Days of Python Programming
+
 #first name
 first_name = input("enter first name: ")
 #last name
